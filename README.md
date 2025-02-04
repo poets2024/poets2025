@@ -1,1 +1,1 @@
-# poets2025
+# poets2025 workshop projectpage
