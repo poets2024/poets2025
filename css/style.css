@@ -350,7 +350,7 @@ background-color: #FFFFFF;}
 text-align:center;
 }
 .hero-caption p{
-color: #000;
+color: #000;
 }
  .fa-angle-down {
     position: absolute;
@@ -596,6 +596,14 @@ background-color: #D7D7D7;border-radius: 0;color: #fff;}
 	padding: 0 5px;
 	text-align: center;
 }
+
+
+.fixed-img {
+  width: 450px;
+  height: 300px;
+  object-fit: cover;
+}
+
 
 /* Navigations
 ----------------------------------------------------------------------------- */
