@@ -604,6 +604,12 @@ background-color: #D7D7D7;border-radius: 0;color: #fff;}
   object-fit: cover;
 }
 
+.fixed-img-small {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
 
 /* Navigations
 ----------------------------------------------------------------------------- */
